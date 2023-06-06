@@ -1,7 +1,7 @@
 # 👋 Hi
 
 <span>
-  <img src="./assets/logo-color-bg-dark.png" width="100" height="100">
+  <img src="./assets/logo-bg.svg" width="100" height="100">
   <img src="./assets/logo-osc.svg" width="100" height="100">
 </span>
 
