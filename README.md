@@ -19,7 +19,7 @@ Nothing special.
 
 ## 📖 Learning
 
-Python & TypeScript.
+Python & TypeScript & Kotlin.
 
 ## 📫 Contact me
 
@@ -29,10 +29,9 @@ Or, try `lh283375@283375.xyz`, if it works.
 
 ## 📱 Social medias
 
-- Twitter [@lh283375](https://twitter.com/lh283375)
+- 𝕏 [@lh283375](https://twitter.com/lh283375)
 - bilibili [@283375](https://space.bilibili.com/13367844)
-- Also my QQ Guild for all of my GitHub projects: [Link here](https://pd.qq.com/s/hmric9q9d)
 
 ## ⚡ Fun facts
 
-- My username: When I first tried to join a Minecraft server back in 2014, I was using an unofficial Minecraft launcher with the username "jack". However, That username was already taken in the server. So, I generated a random number, `283375`, and have been using it as my username for various platforms ever since.
+- This weird username: When I first tried to join a Minecraft server back in 2014, I was using an unofficial Minecraft launcher with the username "jack". However, That username was already taken in the server. So, I generated a random number, `283375`, and have been using it as my username for various platforms ever since.
